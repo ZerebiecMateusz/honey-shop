@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+.container {
+  margin: 20px 20px;
+}
+
+.greenButton {
+  background-color: green;
+  color: white;
+  padding: 5px;
+  margin: 10px
+}
+
+.redButton {
+  margin-left: 30px;
+  background-color: red;
+}
+
+.greyButton {
+  background-color: rgb(122, 134, 113);
+  color: white;
+  padding: 5px;
+  margin: 10px
+}
